@@ -13,8 +13,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '25175014'))
-API_HASH = environ.get('API_HASH', 'cc69432a5ec4c3b3ce1bdd7cbcbb0cba')
+API_ID = int(environ.get('API_ID', '26418122'))
+API_HASH = environ.get('API_HASH', '7cd671c77215f63b68b39d590709a3a7')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6486486619:AAGI-WN3tRmlh5hWlRO8Lrs4kEmz7Au5qFg")
 
 # Bot settings
@@ -28,16 +28,16 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/9133dc596eabc737507
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '827547960').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002026018893').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002055940397').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1976189133').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002028120006')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
-reqst_channel = environ.get('REQST_CHANNEL_ID', '')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002028120006')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
@@ -45,25 +45,25 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Fliestorestream:U3hUlCAAei7oOjr0@filestorestream.imktoae.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Filestorestream")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Fliestorestream")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Ziplinker.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '85cea083c0d357df39fd94d8cbe2af1539526c4a')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlspay.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'aa2097225ab8b89c42a01d035f28139c804780a6')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+0BdQMn4lX0EzMThl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/mOVIES_4K_Hub')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_Download_mOVIES4KHub/24')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Z2LwbQ8AbJ0yNWE9')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ter_Tabakka')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Ter_Tabakka/250')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello Lovely Friend ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '1002036202491'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+0BdQMn4lX0EzMThl')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+Z2LwbQ8AbJ0yNWE9')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -98,7 +98,7 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
-FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+''
+FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
 URL = "https://{}/".format(FQDN) if ON_HEROKU or NO_PORT else \
     "https://{}/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
