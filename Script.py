@@ -2,21 +2,21 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Ter_Tabakka'>Suᴍɪᴛ࿐सरकार✧</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Sam_Dude2'>SaM</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Ter_Tabakka'>Suᴍɪᴛ࿐सरकार✧</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Sam_Dude2'>SaM</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/OTO_Filter_bot>CHITTI😁</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Movie_Finder01_bot>mOViES Finder😁</a>
  ‣ My best friend : <a href='tg://settings'>🫵🫵 BEASTY 🫵🫵</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Ter_Tabakka'>UPDATES</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AJxMirror_Leech_bot_01'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
- ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://Ghostbaja'>TYPE MOVIE</a> 
+ ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://aws.amazon.com/'>AWS</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Check On My Channel ⭐- <a href='https://Ter_Tabakka'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+Check On My Channel ⭐- <a href='https://t.me/mOVIES_4K_HuB'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -170,7 +170,7 @@ Nᴀᴍᴇ - {}"""
 🚯 𝗗𝗼𝗻𝘁 𝗨𝘀𝗲 ➠ ':(!,./)
 
 🔅 𝗣𝗹𝗲𝗮𝘀𝗲 𝗙𝗼𝗹𝗹𝗼𝘄 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗶𝗽𝘀
-❗𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗶𝗽𝘀 : [<a href='http://t.me/+07IRr3jDXfEyOGM1'>𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a>]
+❗𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗶𝗽𝘀 : [<a href='https://t.me/mOVIES_4K_HuB'>𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a>]
 
 🔅 𝗣𝗹𝗲𝗮𝘀𝗲 𝗰𝗵𝗲𝗰𝗸 𝘆𝗼𝘂𝗿 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘀𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗶𝗻 𝗚𝗼𝗼𝗴𝗹𝗲 👇👇</b>"""
 
@@ -184,7 +184,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/Ter_Tabakka/220> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」────
+<b>──────「<a href=https://t.me/How_Download_mOVIES4KHub/28> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -192,9 +192,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://urlspay.in/ref/Sumit720304>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://ziplinker.net/ref/Vaibhav321>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Ter_Tabakka/220> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/How_Download_mOVIES4KHub/28> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -237,7 +237,7 @@ Any Doubts or Not Connecting? Contact Me </b>
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """ 
-<b>📂 {file_name}<a href="https://t.me/Ter_Tabakka">🏷️𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<b>📂 {file_name}<a href="https://t.me/mOVIES_4K_HuB">🏷️𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
 𝗦𝗶𝘇𝗲 ⚙ :「 {file_size} 」
 </b>"""
@@ -490,7 +490,7 @@ Prime Membership Progress
 
 ♛ UPI ID »»———> sumitnadiyaias@oksbi
 
-♛ QR CODE »»———> <a href='https://t.me/Ter_Tabakka/54'>CLICK HERE</a> 
+♛ QR CODE »»———> <a href='https://t.me/How_Download_mOVIES4KHub/27'>CLICK HERE</a> 
 
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -498,10 +498,10 @@ Would you like to become a Prime Member? Follow these steps:-
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @Sumit_Nadiya</code></b>"""
+Any doubts or how to become a prime member? contact me @SAM_DUDE2</code></b>"""
 
     PUSHPA = """
-<b>─────「<a href=https://t.me/Ter_Tabakka/247> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
+<b>─────「<a href=https://t.me/How_Download_mOVIES4KHub/29> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴅɪᴛ Pʜᴏᴛᴏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -509,9 +509,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:- 👇
 
 sᴛᴇᴘ 𝟷 : Sᴇɴᴅ ᴛʜᴇ ᴘʜᴏᴛᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ 📸 आप जो भी PHOTO EDIT करना चाहते हो वो भेजो। 🖼️
 
-sᴛᴇᴘ 𝟸 : Tʜᴇɴ Mᴀɴʏ 🔘Bᴜᴛᴛᴏɴs Wɪʟʟ Cᴏᴍᴇ👉<a href=https://t.me/Ter_Tabakka/247>CLICK HERE</a>👈फिर बहुत सारे 🔘 Buttons आएंगे।
+sᴛᴇᴘ 𝟸 : Tʜᴇɴ Mᴀɴʏ 🔘Bᴜᴛᴛᴏɴs Wɪʟʟ Cᴏᴍᴇ👉<a href=https://t.me/How_Download_mOVIES4KHub/29>CLICK HERE</a>👈फिर बहुत सारे 🔘 Buttons आएंगे।
 
-sᴛᴇᴘ 𝟹 : Yᴏᴜ Cᴀɴ Aʟsᴏ Rᴇᴍᴏᴠᴇ Tʜᴇ Bᴀᴄᴋɢʀᴏᴜɴᴅ Fʀᴏᴍ Tʜᴇ Lᴀsᴛ 🔘Bᴜᴛᴛᴏɴ👉<a href=https://t.me/Ter_Tabakka/247>CLICK HERE</a>👈आप अंत वाले BOTTON से बैकग्राउंड भी हटा सकते हो।
+sᴛᴇᴘ 𝟹 : Yᴏᴜ Cᴀɴ Aʟsᴏ Rᴇᴍᴏᴠᴇ Tʜᴇ Bᴀᴄᴋɢʀᴏᴜɴᴅ Fʀᴏᴍ Tʜᴇ Lᴀsᴛ 🔘Bᴜᴛᴛᴏɴ👉<a href=https://t.me/How_Download_mOVIES4KHub/29>CLICK HERE</a>👈आप अंत वाले BOTTON से बैकग्राउंड भी हटा सकते हो।
 
 ➣ YOU CAN EDIT MANY PHOTOS BUT ITS TAKE SPECIFIC TIME⌛. आप बहुत सारे PHOTO EDIT कर सकते हो लेकिन थोड़ा इंतजार करना एक साथ ज्यादा कमांड मत देना 🙏
 
