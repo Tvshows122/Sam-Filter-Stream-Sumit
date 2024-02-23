@@ -44,8 +44,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://filterbot:fMMzw7vR4FUq1YTN@cluster0.l8cc92r.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "filterbot")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Filestreambot:jteC4CmRrXryxfiw@filestreambot.voxvf5u.mongodb.net/?retryWrites=true&w=majority&appName=Filestreambot")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Filestreambot")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
