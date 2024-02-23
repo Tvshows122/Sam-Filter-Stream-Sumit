@@ -2231,7 +2231,7 @@ async def auto_filter(client, msg, spoll=False):
             return
         if len(message.text) < 100:
             search = message.text
-            m=await message.reply_sticker_IDS('CAACAgIAAxkBAAELCodlipPuUik-qQnH_pkRdiBUa9ovLQACEhUAAl4rOUhG_pnDyBVekjME CAACAgIAAxkBAAELCohlipPuDR8J0YiROj71l2AoflKAzgAC4BUAAhyiGEjF4kD_M1t33DME CAACAgIAAxkBAAELCoVlipPnxAxCYF2VRy8gdyRKYujOSwAC6BUAAiMlyUtQqGgG1fAXAAEzBA')
+            m=await message.reply_sticker('CAACAgIAAxkBAAELf0Bl2QbuZ9pQGfx_Kg5hCVQh0dAxfgAC6BUAAiMlyUtQqGgG1fAXAAE0BA')
             search = search.lower()
             find = search.split(" ")
             search = ""
