@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '25175014'))
-API_HASH = environ.get('API_HASH', 'cc69432a5ec4c3b3ce1bdd7cbcbb0cba')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5990201984:AAF8hYV4IGQhQKtdHl1RuiqxJWVdGHl38GM")
+API_ID = int(environ.get('API_ID', ''))
+API_HASH = environ.get('API_HASH', '')
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -44,8 +44,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Filestreambot:jteC4CmRrXryxfiw@filestreambot.voxvf5u.mongodb.net/?retryWrites=true&w=majority&appName=Filestreambot")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Filestreambot")
+DATABASE_URI = environ.get('DATABASE_URI', "")
+DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
